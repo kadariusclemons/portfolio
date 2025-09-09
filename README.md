@@ -56,10 +56,9 @@ A full-stack task management application with CRUD operations.
 
 ---
 
-## ⚡ Deployment
-- Hosted on **GitHub Pages** → [Portfolio Live Link](https://YOUR_GITHUB.github.io/portfolio/)  
-- Alternative Deployment: [Netlify](https://www.netlify.com/)  
+## Deployment
+- Hosted on **Netlify** → [Portfolio Live Link](https://kadarius-portfolio.netlify.app/)
 
 ---
 
-✨ Built with passion by **Kadarius Clemons** — Software Engineer & Problem Solver
+Built with passion by **Kadarius Clemons** — Software Engineer & Problem Solver
