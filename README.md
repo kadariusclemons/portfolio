@@ -9,8 +9,8 @@ Resume: [Download / View Resume](https://kadariusclemons.github.io/portfolio/ass
 ---
 
 ## About Me
-I am a motivated and eager-to-learn developer who recently completed CodeCrew's Full-Stack Bootcamp in Memphis.  
-I’m passionate about solving real-world problems with clean, efficient code and building modern web applications.  
+Motivated and eager-to-learn developer who recently completed CodeCrew's Full-Stack Bootcamp in Memphis.  
+Passionate about solving real-world problems with clean, efficient code and building modern web applications.  
 
 ---
 
