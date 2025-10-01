@@ -1,7 +1,7 @@
-# Kadarius Clemons — Software Engineer Portfolio
+# Kadarius Clemons — AI Engineer Portfolio
 
 Welcome to my personal portfolio website!  
-This site showcases my skills, projects, and experience as a **Full-Stack Software Engineer**.  
+This site showcases my skills, projects, and experience as a **Full-Stack AI Engineer**.  
 
 Live Site: [View Portfolio](https://kadarius-portfolio.netlify.app/)
 Resume: [Download / View Resume](https://kadariusclemons.github.io/portfolio/assets/kadarius-clemons.pdf)  
@@ -61,4 +61,4 @@ A full-stack task management application with CRUD operations.
 
 ---
 
-Built with passion by **Kadarius Clemons** — Engineer & Problem Solver
+Built with passion by **Kadarius Clemons** — AI Engineer & Problem Solver
